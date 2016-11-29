@@ -4,7 +4,7 @@
   "description": "color",
   "main": [
     "dist/chromath.min.js"
-  ]
+  ],
   "ignore": [],
   "dependencies": {
   }
