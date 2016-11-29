@@ -1,0 +1,8 @@
+{
+  "name": "chromath",
+  "version": "1",
+  "description": "color",
+  "main": [
+    "dist/chromath.min.js"
+  ]
+}
